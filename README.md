@@ -66,11 +66,6 @@ A platform focused on hotel website for making japanese food in kenya
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/alpha-odiero/alpha-odiero/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🧩 Fun Section
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Code.+Secure.+Scale.;Never+Stop+Learning)
