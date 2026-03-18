@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 About Me
+##   About Me
 - 🚀 Full-Stack Developer passionate about building scalable applications  
 - 🛡️ Interested in Cybersecurity & Secure Systems  
 - 🔭 Currently working on **DevLearn (Programming Platform)**  
@@ -54,9 +54,9 @@ Generate melodies using AI with backend processing
 
 ---
 
-### 🌱 EcoCare
-A platform focused on environmental conservation and tree planting  
-**Tech:** HTML, CSS, JavaScript  
+### 🌱 SHUSHI WEBSITE
+A platform focused on hotel website for making japanese food in kenya
+**Tech:** HTML, CSS, JavaScript, node.js, python
 
 ---
 
@@ -82,8 +82,8 @@ A platform focused on environmental conservation and tree planting
 
 - 📧 Email: collinsodiera8@gmail.com  
 - 🌍 Location: Nakuru, Kenya  
-- 💼 LinkedIn: (add your link)  
-- 🌐 Portfolio: (add your website)
+- 💼 LinkedIn: (alpha odiero)  
+- 🌐 Tiktok: (alpha dev).
 
 ---
 
