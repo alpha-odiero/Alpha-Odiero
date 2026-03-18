@@ -1,15 +1,15 @@
+
 # 👋 Hi, I'm Alpha Odiero
 
-🚀 Full-Stack Developer | Cybersecurity Enthusiast  
-💡 I build secure, scalable, and user-focused web applications  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Apps;Always+Learning+New+Tech)
 
 ---
 
 ## 🧠 About Me
-- 🔭 Currently building: **DevLearn (Programming Platform)**
-- 🌱 Learning: **Advanced Backend Architecture & DevOps**
-- 🛡️ Exploring: **Cybersecurity & Secure Systems Design**
-- 🎯 Goal: Build impactful tech products that solve real-world problems
+- 🚀 Full-Stack Developer passionate about building scalable applications  
+- 🛡️ Interested in Cybersecurity & Secure Systems  
+- 🔭 Currently working on **DevLearn (Programming Platform)**  
+- 🎯 Goal: Build impactful tech products and a successful startup  
 
 ---
 
@@ -34,9 +34,9 @@
 
 ## 📊 GitHub Stats
 
-![Alpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Alpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha-odiero&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-odiero&layout=compact&theme=radical)
 
 ---
 
@@ -55,29 +55,36 @@ Generate melodies using AI with backend processing
 ---
 
 ### 🌱 EcoCare
-Environmental awareness and tree-planting platform  
+A platform focused on environmental conservation and tree planting  
 **Tech:** HTML, CSS, JavaScript  
 
 ---
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alpha-odiero&theme=react-dark)
 
 ---
 
-## 🧩 Fun Extras
+## 🐍 Contribution Snake
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Problem+Solver)
+![snake gif](https://github.com/alpha-odiero/alpha-odiero/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🧩 Fun Section
+
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Code.+Secure.+Scale.;Never+Stop+Learning)
 
 ---
 
 ## 📫 Connect With Me
 
 - 📧 Email: collinsodiera8@gmail.com  
+- 🌍 Location: Nakuru, Kenya  
 - 💼 LinkedIn: (add your link)  
-- 🌐 Portfolio: (add your website if available)
+- 🌐 Portfolio: (add your website)
 
 ---
 
-⭐️ *“Code. Secure. Scale. Repeat.”*
+⭐️ *"Code. Secure. Scale. Repeat."*
