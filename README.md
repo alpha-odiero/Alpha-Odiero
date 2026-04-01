@@ -1,8 +1,5 @@
-
 # ❄️ Alpha Odiero
 Full-Stack Developer | Cybersecurity Enthusiast | Creative Designer  
-
-![Banner](https://i.ibb.co/7Y0h4gB/github-banner.png)  
 
 [Portfolio](https://odiero.tech) | @alphaodiero | [LinkedIn](https://linkedin.com/in/alpha_odiero)  
 
