@@ -5,16 +5,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Secure+and+Scalable+Systems;Designing+Clean+User+Experiences;Exploring+Cybersecurity+and+DevOps" />
 </p>
-
 ---
-## 🎯 What I Do
+## 🎯 **What I Do**
 
-> const alpha = {
-> focus: ["Full-Stack Development", "Cybersecurity", "Scalable Systems"],
- > currentlyLearning: "Advanced Node.js & AI-Driven Apps",
->  philosophy: "Build secure, innovative, and impactful software",
->  superpower: "Transforming complex ideas into working solutions"
-> };
+```typescript
+const alpha = {
+  focus: ["Full-Stack Development", "Cybersecurity", "Scalable Systems"],
+  currentlyLearning: "Advanced Node.js & AI-Driven Apps",
+  philosophy: "Build secure, innovative, and impactful software",
+  superpower: "Transforming complex ideas into working solutions"
+};
+```
 
 ## 🧠 Developer Mindset
 
@@ -110,6 +111,27 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpha-odiero&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+## 📈 **GitHub Insights**
+
+<div align="center">
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alpha-Odiero&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha-Odiero&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
+  
+</div>
+
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alpha-Odiero&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117)
+  
+</div>
+
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+</div>
 
 ---
 ## ⚡ Fun Fact
