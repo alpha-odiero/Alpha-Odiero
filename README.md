@@ -1,64 +1,121 @@
-# ❄️ Alpha Odiero
-Full-Stack Developer | Cybersecurity Enthusiast | Creative Designer  
+# 🌟 Alpha Odiero
 
-[Portfolio](https://odiero.tech) | @alphaodiero | [LinkedIn](https://linkedin.com/in/alpha_odiero)  
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | Creative Technologist</h3>
 
----
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Creative+Designer;Tech+Explorer)
-
----
-
-🌍 **Productivity Hacker** • 💻 **JS & Node.js Enthusiast** • 🚀 **Tech Explorer**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Secure+and+Scalable+Systems;Designing+Clean+User+Experiences;Exploring+Cybersecurity+and+DevOps" />
+</p>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🧠 Developer Mindset
 
-**Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+> I don’t just write code — I design systems.  
+> I focus on **scalability, security, and real-world impact**.
 
-HTML5 | CSS3 | Sass | Figma | Adobe Suite  
-
-PostgreSQL | MySQL | Git | Linux | Docker  
+- 🔐 Security-first approach to development  
+- ⚙️ Strong focus on backend architecture  
+- 🎨 Clean and intuitive UI/UX design  
+- 🚀 Building products that solve real problems  
 
 ---
 
-## 📈 GitHub Insights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphaodiero&show_icons=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=alphaodiero)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaodiero&layout=compact)
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alpha-odiero&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-odiero&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpha-odiero&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
-![Snake Graph](https://github.com/alphaodiero/github-profile-snake.svg)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=alphaodiero&theme=react-dark)
-
----
-
-## 🌐 Connect & Collaborate
-[TikTok](https://tiktok.com/@alpha_dev) | [Twitter](https://twitter.com/alpha_odiero) | [LinkedIn](https://linkedin.com/in/alpha_odiero) | [Instagram](https://instagram.com/alpha_odiero) | Email: collinsodiera8@gmail.com  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alpha-odiero/alpha-odiero/output/github-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
-## 💭 Quote
-*"Great software is built by great people working together"*  
+## 🚀 Featured Projects
 
-Open to collaborations and exciting opportunities! 🚀  
+<p align="center">
+  <a href="https://github.com/alpha-odiero/Visual-Genesis">
+    <img src="https://img.shields.io/badge/Visual-Genesis-AI%20Video%20Generator-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/alpha-odiero/DevLearn">
+    <img src="https://img.shields.io/badge/DevLearn-Learning%20Platform-28A745?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/alpha-odiero/TECH-GIGS">
+    <img src="https://img.shields.io/badge/TECH--GIGS-Tech%20Marketplace-FF8C00?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🎯 What I Do
-```javascript
-const alpha = {
-  focus: ["Full-Stack Development", "Cybersecurity", "Scalable Systems"],
-  currentlyLearning: "Advanced Node.js & AI-Driven Apps",
-  philosophy: "Build secure, innovative, and impactful software",
-  superpower: "Transforming complex ideas into working solutions"
-};
+## 🛠 Tools & Workflow
+
+- 💻 Code Editor: VS Code  
+- 🌐 Version Control: Git & GitHub  
+- 🎨 Design: Figma, Adobe Suite  
+- ⚙️ Backend: Node.js + Express  
+- 🗄 Database: MongoDB  
+
+---
+
+## 📚 Currently Learning
+
+- ☁️ Cloud Computing (AWS / Azure fundamentals)  
+- 🔄 DevOps (CI/CD pipelines, Docker)  
+- 🛡 Advanced Cybersecurity practices  
+- ⚡ Performance optimization & scalability  
+
+---
+
+## 🎯 Mission
+
+> To build **secure, scalable, and impactful digital products**  
+> that solve real-world problems and empower people.
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/AlphaOdiero"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/AlphaOdiero"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/AlphaOdiero"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/AlphaOdiero"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/alpha-odiero/count.svg" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy breaking systems apart just to understand how to build them better 🔍
