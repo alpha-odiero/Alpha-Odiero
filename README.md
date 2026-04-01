@@ -7,6 +7,14 @@
 </p>
 
 ---
+## 🎯 What I Do
+
+> const alpha = {
+> focus: ["Full-Stack Development", "Cybersecurity", "Scalable Systems"],
+ > currentlyLearning: "Advanced Node.js & AI-Driven Apps",
+>  philosophy: "Build secure, innovative, and impactful software",
+>  superpower: "Transforming complex ideas into working solutions"
+> };
 
 ## 🧠 Developer Mindset
 
@@ -26,37 +34,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpha-odiero&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-odiero&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpha-odiero&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alpha-odiero/alpha-odiero/output/github-snake.svg" alt="snake animation"/>
-</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/alpha-odiero/Visual-Genesis">
+  <a href="https://github.com/alpha-odiero/KILIMO BORA">
     <img src="https://img.shields.io/badge/Visual-Genesis-AI%20Video%20Generator-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
@@ -64,7 +48,7 @@
     <img src="https://img.shields.io/badge/DevLearn-Learning%20Platform-28A745?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
-  <a href="https://github.com/alpha-odiero/TECH-GIGS">
+  <a href="https://github.com/alpha-odiero/SHUSHI RESTAUTANT">
     <img src="https://img.shields.io/badge/TECH--GIGS-Tech%20Marketplace-FF8C00?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -73,12 +57,23 @@
 
 ## 🛠 Tools & Workflow
 
-- 💻 Code Editor: VS Code  
-- 🌐 Version Control: Git & GitHub  
-- 🎨 Design: Figma, Adobe Suite  
-- ⚙️ Backend: Node.js + Express  
-- 🗄 Database: MongoDB  
+<p align="center">
+  
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github" height="50" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
 
+</p>
+
+<p align="center">
+  💻 VS Code &nbsp;&nbsp; | &nbsp;&nbsp;
+  🌐 Git & GitHub &nbsp;&nbsp; | &nbsp;&nbsp;
+  🎨 Figma & Adobe &nbsp;&nbsp; | &nbsp;&nbsp;
+  ⚙️ Node.js & Express &nbsp;&nbsp; | &nbsp;&nbsp;
+  🗄 MongoDB
+</p>
 ---
 
 ## 📚 Currently Learning
@@ -106,16 +101,21 @@
   <a href="https://www.facebook.com/AlphaOdiero"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
+
+
 ---
 
-## 👀 Profile Visitors
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/alpha-odiero/count.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpha-odiero&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
-
 ## ⚡ Fun Fact
 
-> I enjoy breaking systems apart just to understand how to build them better 🔍
+I enjoy breaking systems apart just to understand how to build them better 🔍
+| Then fix them untill thy come back life.
+
+---
+HAPPY CODING.
