@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Secure+and+Scalable+Systems;Designing+Clean+User+Experiences;Exploring+Cybersecurity+and+DevOps" />
 </p>
 ---
+
 ## 🎯 **What I Do**
 
 ```typescript
