@@ -42,15 +42,15 @@ const alpha = {
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/alpha-odiero/KILIMO BORA">
+  <a href="https://kingstoneresort.netlify.app/">
     <img src="https://img.shields.io/badge/Visual-Genesis-AI%20Video%20Generator-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
-  <a href="https://github.com/alpha-odiero/DevLearn">
+  <a href="https://kijanitravel.netlify.app/">
     <img src="https://img.shields.io/badge/DevLearn-Learning%20Platform-28A745?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
-  <a href="https://github.com/alpha-odiero/SHUSHI RESTAUTANT">
+  <a href="https://code-dna-olive.vercel.app/">
     <img src="https://img.shields.io/badge/TECH--GIGS-Tech%20Marketplace-FF8C00?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -107,21 +107,6 @@ const alpha = {
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpha-odiero&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-## 📈 **GitHub Insights**
-
-<div align="center">
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alpha-Odiero&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha-Odiero&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
-  
-</div>
 
 <div align="center">
   
