@@ -180,16 +180,6 @@ My long-term goal is to create products that solve real-world problems while con
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alpha-Odiero&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" />
-
-</div>
-
----
-
 ## 🐍 Contribution Activity
 
 <div align="center">
