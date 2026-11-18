@@ -1,4 +1,4 @@
-&#x20;\<div align="center">
+\<div align="center">
 
 \<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100\:EA580C&height=200&section=header&text=ALPHA%20ODIERO&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%7C%20AI&descAlignY=60&descSize=15&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:0D1117,50:161B22,100\:EA580C\&height=200\&section=header\&text=ALPHA%20ODIERO\&fontSize=50\&fontColor=FFFFFF\&fontAlignY=38\&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%7C%20AI\&descAlignY=60\&descSize=15\&animation=fadeIn)" />
 
