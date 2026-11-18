@@ -1,4 +1,4 @@
-&#x20;\<div align="center">
+<div align="center">
 
 \<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100\:EA580C&height=190&section=header&text=ALPHA%20ODIERO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20%7C%20BACKEND%20%7C%20AI%20ENGINEERING&descAlignY=60&descSize=14&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:0D1117,45:161B22,100\:EA580C\&height=190\&section=header\&text=ALPHA%20ODIERO\&fontSize=48\&fontColor=FFFFFF\&fontAlignY=38\&desc=FULL-STACK%20%7C%20BACKEND%20%7C%20AI%20ENGINEERING\&descAlignY=60\&descSize=14\&animation=fadeIn)" alt="Alpha Odiero profile banner" />
 
