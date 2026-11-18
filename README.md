@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:EA580C&height=200&section=header&text=ALPHA%20ODIERO&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%7C%20AI&descAlignY=60&descSize=15&animation=fadeIn" alt="Alpha Odiero Banner" />
 
@@ -17,11 +16,11 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=EA580C&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;Backend+%26+API+Developer;AI+Automation+Enthusiast;Cybersecurity+%26+DevOps+Learner;Building+Secure+Digital+Products." alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=EA580C&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;Backend+%26+API+Developer;AI+Automation+Engineer;Cybersecurity+%26+DevOps;Building+Secure+Digital+Products." alt="Typing introduction" />
 
 <br/>
 
-**Based in Kenya** · **Building Digital Products** · **Always Learning**
+**Based in Kenya** · **Building Digital Products** · **Engineering for Impact**
 
 <br/>
 
@@ -54,37 +53,51 @@ My engineering interests include:
 
 ## `02` — TECH STACK & TOOLS
 
-The technologies I use, build with, and explore.
+<div align="center">
+
+The technologies I build with and use to engineer digital products.
 
 ### Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" alt="JavaScript, TypeScript, Python, HTML and CSS" />
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 ### Frontend Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="React, Next.js, Tailwind CSS and Vite" />
-</p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 
 ### Backend Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" alt="Node.js, Express, Python and FastAPI" />
-</p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ### Databases & Data Management
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark" alt="PostgreSQL, MongoDB, Redis and Prisma" />
-</p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
 ### DevOps, Cloud & Developer Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,cloudflare,vercel,vscode&theme=dark" alt="Git, GitHub, Docker, Linux, AWS, Cloudflare, Vercel and VS Code" />
-</p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
 
 ---
 
@@ -153,35 +166,7 @@ Projects focused on solving practical problems through software engineering.
 <tr>
 <td width="50%" valign="top">
 
-### 01. Soma360
-
-**Library Management System**
-
-A library management platform for managing books, circulation, users, staff, permissions, and daily library operations.
-
-`Node.js` `PostgreSQL` `Authentication` `RBAC`
-
-<a href="https://github.com/alpha-odiero/library-system">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 02. DukaStock
-
-**POS & Inventory Management**
-
-A business management platform for Kenyan shops, minimarkets, kiosks, hardware stores, and electronics businesses.
-
-`React` `Node.js` `PostgreSQL` `Prisma`
-
-<a href="https://github.com/alpha-odiero/Duka-stock">View Repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03. TokenMate
+### 01. TokenMate
 
 **Shared Electricity Contribution Tracker**
 
@@ -192,7 +177,7 @@ A platform for managing shared electricity contributions, payment records, recei
 </td>
 <td width="50%" valign="top">
 
-### 04. VoteBox
+### 02. VoteBox
 
 **Polling API**
 
@@ -205,7 +190,7 @@ A backend project exploring polling workflows, password hashing, JWT authenticat
 <tr>
 <td width="50%" valign="top">
 
-### 05. Pikawise
+### 03. Pikawise
 
 **Meal Discovery Application**
 
@@ -218,7 +203,7 @@ A progressive web application that helps people discover meals and learn how to 
 </td>
 <td width="50%" valign="top">
 
-### 06. Daymark JOURNAL
+### 04. Daymark JOURNAL
 
 **Personal Productivity Application**
 
@@ -233,7 +218,7 @@ A productivity and journaling application for organizing notes, daily tasks, and
 <tr>
 <td width="50%" valign="top">
 
-### 07. DiffForge
+### 05. DiffForge
 
 **JSON Comparison Tool**
 
@@ -244,7 +229,7 @@ A developer utility that recursively compares JSON documents and highlights stru
 </td>
 <td width="50%" valign="top">
 
-### 08. CodeDNA
+### 06. CodeDNA
 
 **Developer Portfolio**
 
@@ -270,19 +255,23 @@ A personal portfolio showcasing engineering skills, technical projects, and prof
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alpha-odiero&bg_color=0D1117&color=C9D1D9&line=EA580C&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution graph" />
+### Contribution Snake
+
+<img width="100%" src="https://raw.githubusercontent.com/alpha-odiero/alpha-odiero/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
 
 </div>
 
 ---
 
-## `06` — CURRENT LEARNING JOURNEY
+## `06` — ADVANCING MY ENGINEERING PRACTICE
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Backend & Architecture
+<h3 align="center">Backend & Architecture</h3>
 
 - Scalable API architecture
 - Database optimization
@@ -292,7 +281,7 @@ A personal portfolio showcasing engineering skills, technical projects, and prof
 </td>
 <td width="50%" valign="top">
 
-### Cybersecurity & DevOps
+<h3 align="center">Cybersecurity & DevOps</h3>
 
 - Ethical hacking
 - Application security
@@ -305,7 +294,7 @@ A personal portfolio showcasing engineering skills, technical projects, and prof
 <tr>
 <td width="50%" valign="top">
 
-### Artificial Intelligence
+<h3 align="center">Artificial Intelligence</h3>
 
 - AI-powered applications
 - LLM integrations
@@ -315,7 +304,7 @@ A personal portfolio showcasing engineering skills, technical projects, and prof
 </td>
 <td width="50%" valign="top">
 
-### Software Engineering
+<h3 align="center">Software Engineering</h3>
 
 - Clean architecture
 - Maintainable code
@@ -325,6 +314,8 @@ A personal portfolio showcasing engineering skills, technical projects, and prof
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -339,7 +330,7 @@ const engineeringPrinciples = {
   build: "Write clean, maintainable code.",
   secure: "Think about security at every layer.",
   test: "Verify before deployment.",
-  improve: "Monitor, learn, and iterate."
+  improve: "Monitor, measure, and iterate."
 };
 
 export default engineeringPrinciples;
@@ -369,6 +360,6 @@ Interested in collaboration, innovative ideas, open-source projects, and solving
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,100:0D1117&height=120&section=footer" alt="Footer banner" />
 
-**BUILD WITH PURPOSE · ENGINEER WITH PRECISION · NEVER STOP LEARNING**
+**BUILD WITH PURPOSE · ENGINEER WITH PRECISION · KEEP IMPROVING**
 
 </div>
