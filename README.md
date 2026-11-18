@@ -337,3 +337,42 @@ A developer-focused digital platform exploring technical identity, skills, proje
 \<p align="center">   \<img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=EA580C&center=true&vCenter=true&width=600&lines=BUILD.+SECURE.+SCALE.+REPEAT.;Engineering+the+future%2C+one+system+at+a+time](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=600\&size=20\&pause=1500\&color=EA580C\&center=true\&vCenter=true\&width=600\&lines=BUILD.+SECURE.+SCALE.+REPEAT.;Engineering+the+future%2C+one+system+at+a+time)." /> \</p>
 
 \<p align="center">   \<b>© Alpha Odiero · Kenya\</b> \</p>
+
+---
+
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: alpha-odiero
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
